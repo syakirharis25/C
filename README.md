@@ -40,6 +40,7 @@ Difference between float and double in C/C++ by GeeksforGeeks : https://www.geek
 C programming jobs by LinkedIn : https://www.linkedin.com/jobs/c-programmer-jobs <br />
 C programming jobs by Totaljobs : https://www.totaljobs.com/jobs/c-programmer <br />
 C programming jobs by SimplyHired : https://www.simplyhired.com/search?q=c+programmer&job=_zjdT11J81XA3TSBQCDZib5yNXBgK-VSaqy3jTNn6LNusjs7Qano6A <br />
+C Functions by Programiz : https://www.programiz.com/c-programming/c-functions <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.
