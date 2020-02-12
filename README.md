@@ -36,6 +36,7 @@ fgets() and gets() in C language by GeeksforGeeks : https://www.geeksforgeeks.or
 Stdin by Computer Hope : https://www.computerhope.com/jargon/s/stdin.htm <br />
 Difference between float and double in C/C++ by GeeksforGeeks : https://www.geeksforgeeks.org/difference-float-double-c-cpp/ <br />
 How do I print a cube program in C? by Quora : https://www.quora.com/How-do-I-print-a-cube-program-in-C <br />
+Importance of function prototype in C by GeeksforGeeks : https://www.geeksforgeeks.org/importance-of-function-prototype-in-c/ <br />
 
 <a name="jobs"></a>
 ## 3. C Programming jobs.
