@@ -25,6 +25,7 @@ C Library math.h functions GeeksforGeeks : https://www.geeksforgeeks.org/c-libra
 Scanf : https://www.techopedia.com/definition/21928/scanf <br />
 C library function - printf() by Tutorialspoint : https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm <br />
 fgets() and gets() in C language by GeeksforGeeks : https://www.geeksforgeeks.org/fgets-gets-c-language/ <br />
+Stdin by Computer Hope : https://www.computerhope.com/jargon/s/stdin.htm <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
