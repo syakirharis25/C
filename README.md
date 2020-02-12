@@ -25,7 +25,8 @@ TutorialsTeacher educational website : https://www.tutorialsteacher.com <br />
 Stack Overflow questions and answer website : https://stackoverflow.com <br />
 
 **_related articles_** <br />
-C Library math.h functions : https://www.geeksforgeeks.org/c-library-math-h-functions/
+C Library math.h functions : https://www.geeksforgeeks.org/c-library-math-h-functions/ <br />
+Scanf : https://www.techopedia.com/definition/21928/scanf <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
