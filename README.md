@@ -17,8 +17,13 @@ C is an imperative procedural language. It was designed to be compiled using a r
 
 <a name="references"></a>
 ## 2. Official references websites. <br />
-Code::Blocks official website : http://www.codeblocks.org
-Code::Blocks shortcuts : http://wiki.codeblocks.org/index.php/Keyboard_Shortcuts
+Code::Blocks official website : http://www.codeblocks.org <br />
+Code::Blocks shortcuts : http://wiki.codeblocks.org/index.php/Keyboard_Shortcuts <br />
+
+Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
+
+**_questions and answers by Stack Overflow_** <br />
+What is the difference between %f and %lf in C? by Stack Overflow : https://stackoverflow.com/questions/25860850/what-is-the-difference-between-f-and-lf-in-c <br />
 
 **_related articles_** <br />
 C Library math.h functions GeeksforGeeks : https://www.geeksforgeeks.org/c-library-math-h-functions/ <br />
