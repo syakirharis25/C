@@ -21,9 +21,10 @@ Code::Blocks official website : http://www.codeblocks.org
 Code::Blocks shortcuts : http://wiki.codeblocks.org/index.php/Keyboard_Shortcuts
 
 **_related articles_** <br />
-C Library math.h functions : https://www.geeksforgeeks.org/c-library-math-h-functions/ <br />
+C Library math.h functions GeeksforGeeks : https://www.geeksforgeeks.org/c-library-math-h-functions/ <br />
 Scanf : https://www.techopedia.com/definition/21928/scanf <br />
 C library function - printf() by Tutorialspoint : https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm <br />
+fgets() and gets() in C language by GeeksforGeeks : https://www.geeksforgeeks.org/fgets-gets-c-language/ <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
