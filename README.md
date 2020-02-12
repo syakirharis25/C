@@ -4,7 +4,8 @@ My works related to C programming language
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
+3. [C Programming jobs.](#jobs)
+4. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -33,8 +34,15 @@ fgets() and gets() in C language by GeeksforGeeks : https://www.geeksforgeeks.or
 Stdin by Computer Hope : https://www.computerhope.com/jargon/s/stdin.htm <br />
 Difference between float and double in C/C++ by GeeksforGeeks : https://www.geeksforgeeks.org/difference-float-double-c-cpp/ <br />
 
+<a name="jobs"></a>
+## 3. C Programming jobs.
+
+C programming jobs by LinkedIn : https://www.linkedin.com/jobs/c-programmer-jobs <br />
+C programming jobs by Totaljobs : https://www.totaljobs.com/jobs/c-programmer <br />
+C programming jobs by SimplyHired : https://www.simplyhired.com/search?q=c+programmer&job=_zjdT11J81XA3TSBQCDZib5yNXBgK-VSaqy3jTNn6LNusjs7Qano6A <br />
+
 <a name="github"></a>
-## 3. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/C.git
