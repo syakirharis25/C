@@ -42,6 +42,7 @@ Stdin by Computer Hope : https://www.computerhope.com/jargon/s/stdin.htm <br />
 How do I print a cube program in C? by Quora : https://www.quora.com/How-do-I-print-a-cube-program-in-C <br />
 What is header file #include<stdio.h> ? by hackerearth : https://www.hackerearth.com/practice/notes/why-a-header-file-such-as-includestdioh-is-used/ <br />
 C struct by Programiz : https://www.programiz.com/c-programming/c-structures <br />
+while loop in C by Javatpoint : https://www.javatpoint.com/while-loop-in-c <br />
 
 <a name="jobs"></a>
 ## 3. C Programming jobs.
