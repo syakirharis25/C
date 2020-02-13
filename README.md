@@ -32,6 +32,7 @@ fgets() and gets() in C language by GeeksforGeeks : https://www.geeksforgeeks.or
 Difference between float and double in C/C++ by GeeksforGeeks : https://www.geeksforgeeks.org/difference-float-double-c-cpp/ <br />
 Importance of function prototype in C by GeeksforGeeks : https://www.geeksforgeeks.org/importance-of-function-prototype-in-c/ <br />
 Difference between C and C++ by GeeksforGeeks : https://www.geeksforgeeks.org/difference-between-c-and-c/ <br />
+Dynamic Memory Allocation in C using malloc(), calloc(), free() and realloc() by GeeksforGeeks : https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/ <br />
 
 **_questions and answers by Stack Overflow_** <br />
 What is the difference between %f and %lf in C? by Stack Overflow : https://stackoverflow.com/questions/25860850/what-is-the-difference-between-f-and-lf-in-c <br />
