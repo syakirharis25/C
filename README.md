@@ -46,6 +46,7 @@ C struct by Programiz : https://www.programiz.com/c-programming/c-structures <br
 while loop in C by Javatpoint : https://www.javatpoint.com/while-loop-in-c <br />
 for loop in C by Javatpoint : https://www.tutorialspoint.com/cprogramming/c_for_loop.htm <br />
 C Multidimensional Arrays by Programiz : https://www.programiz.com/c-programming/c-multi-dimensional-arrays <br />
+fgets() Function in C : https://overiq.com/c-programming-101/fgets-function-in-c/ <br />
 
 <a name="jobs"></a>
 ## 3. C Programming jobs.
