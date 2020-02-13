@@ -25,18 +25,21 @@ Code::Blocks shortcuts : http://wiki.codeblocks.org/index.php/Keyboard_Shortcuts
 Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
 GeeksforGeeks computer science portal website : https://www.geeksforgeeks.org/ <br />
 
+**_C programming documentation by GeeksforGeeks_**
+C Library math.h functions GeeksforGeeks : https://www.geeksforgeeks.org/c-library-math-h-functions/ <br />
+Scanf : https://www.techopedia.com/definition/21928/scanf <br />
+fgets() and gets() in C language by GeeksforGeeks : https://www.geeksforgeeks.org/fgets-gets-c-language/ <br />
+Difference between float and double in C/C++ by GeeksforGeeks : https://www.geeksforgeeks.org/difference-float-double-c-cpp/ <br />
+Importance of function prototype in C by GeeksforGeeks : https://www.geeksforgeeks.org/importance-of-function-prototype-in-c/ <br />
+Difference between C and C++ by GeeksforGeeks : https://www.geeksforgeeks.org/difference-between-c-and-c/ <br />
+
 **_questions and answers by Stack Overflow_** <br />
 What is the difference between %f and %lf in C? by Stack Overflow : https://stackoverflow.com/questions/25860850/what-is-the-difference-between-f-and-lf-in-c <br />
 
 **_related articles_** <br />
-C Library math.h functions GeeksforGeeks : https://www.geeksforgeeks.org/c-library-math-h-functions/ <br />
-Scanf : https://www.techopedia.com/definition/21928/scanf <br />
 C library function - printf() by Tutorialspoint : https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm <br />
-fgets() and gets() in C language by GeeksforGeeks : https://www.geeksforgeeks.org/fgets-gets-c-language/ <br />
 Stdin by Computer Hope : https://www.computerhope.com/jargon/s/stdin.htm <br />
-Difference between float and double in C/C++ by GeeksforGeeks : https://www.geeksforgeeks.org/difference-float-double-c-cpp/ <br />
 How do I print a cube program in C? by Quora : https://www.quora.com/How-do-I-print-a-cube-program-in-C <br />
-Importance of function prototype in C by GeeksforGeeks : https://www.geeksforgeeks.org/importance-of-function-prototype-in-c/ <br />
 What is header file #include<stdio.h> ? by hackerearth : https://www.hackerearth.com/practice/notes/why-a-header-file-such-as-includestdioh-is-used/ <br />
 
 <a name="jobs"></a>
