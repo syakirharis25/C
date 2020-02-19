@@ -6,6 +6,7 @@ My works related to C programming language
 2. [Official references websites.](#references)
 3. [C Programming jobs.](#jobs)
 4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -65,3 +66,18 @@ $ git clone https://github.com/syakirharis25/C.git
 $ cd C/
 $ git remote -v
 $ git status
+```
+
+<a name="calculation"></a>
+## 13. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+C                               23             87              3            311
+Markdown                         1             12              0             55
+-------------------------------------------------------------------------------
+SUM:                            24             99              3            366
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
